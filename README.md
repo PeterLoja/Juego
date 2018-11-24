@@ -8,4 +8,5 @@ rellenando cada casillero hasta forma una linea horizontal, vertical e inclinada
 un ganador.
 
 Pedro Loja
+
 Jose Sanango
