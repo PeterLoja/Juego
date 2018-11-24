@@ -1,4 +1,5 @@
 # Juego
+Universidad Politécnica Salesiana
 Desarrollo del Juego Connect4
 
 El juego tiene un tablero de 42 casilleros en forma de matriz en el cada jugador debera agregar fichas para ir 
@@ -7,5 +8,3 @@ un ganador.
 
 Pedro Loja
 Jose Sanango
-
-Universidad Politécnica Salesiana
